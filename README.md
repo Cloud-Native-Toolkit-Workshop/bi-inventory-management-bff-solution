@@ -15,6 +15,7 @@
 
 # Graphql/Typescript Code Pattern
 
+
 This is a template repository for a Typescript-based Graphql micro-service.
 
 This app contains an opinionated set of components for modern web development, including:
